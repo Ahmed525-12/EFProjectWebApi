@@ -1,0 +1,21 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "AhmedSayed",
+    "classifications": ["Web", "WebAPI"],
+    "identity": "EFProjectWebApi.Template",
+    "name": "EFProjectWebApi2",
+    "shortName": "EFProjectWebApi2",
+    "tags": {
+      "language": "C#",
+      "type": "project"
+    },
+    "exclude": [
+      ".vs/**/*",
+      "**/.vs/**/*",
+      "**/bin/**/*",
+      "**/obj/**/*",
+      "**/*.user"
+    ],
+    "sourceName": "EFProjectWebApi",
+    "preferNameDirectory": true
+  }
